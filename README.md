@@ -28,6 +28,16 @@ Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
+### Features
+Before you begin, here are some BEASTMODE features
+- Responsive Gym Website Design Using HTML CSS & JavaScript
+- Contains animations when scrolling.
+- Includes a form to calculate body mass index.
+- Includes a form to send emails.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+
+
 ### Run Locally
 
 To run **BEASTMODE** locally, run this command on your git bash:
