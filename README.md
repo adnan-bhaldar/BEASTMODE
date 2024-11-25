@@ -8,7 +8,7 @@
   <br />
   <br />
 
-  <h2 align="center">BEASTMODE - Car website</h2>
+  <h2 align="center">BEASTMODE - GYM website</h2>
 
   BEASTMODE is a fully responsive Gym website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
